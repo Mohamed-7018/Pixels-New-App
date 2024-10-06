@@ -107,6 +107,12 @@
             <version>2.0.2</version>
         </dependency>
 
+        <dependency>
+            <groupId>io.github.poshjosh</groupId>
+            <artifactId>rate-limiter-web-core</artifactId>
+            <version>0.8.0</version>
+        </dependency>
+
     </dependencies>
 
     <build>
