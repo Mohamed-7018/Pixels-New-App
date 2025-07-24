@@ -8,7 +8,7 @@ import org.springframework.stereotype.Component;
 import org.springframework.web.context.request.RequestContextHolder;
 import org.springframework.web.context.request.ServletRequestAttributes;
 
-import com.example.pixels_app.exception.UnauthorizedException;
+import com.example.pixels_app.exception.exceptions.UnauthorizedException;
 import com.example.pixels_app.services.AuthorizationService;
 
 @Aspect
